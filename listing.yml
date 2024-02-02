@@ -1,0 +1,19 @@
+handle: dawwwn
+body: D'awww it's a theme
+vendor: Shopify
+tags:
+  industry_fit: business_equipment_and_supplies,jewelry_and_accessories,health_and_beauty,clothing,food_and_drink,restaurants,services,arts_and_crafts
+  target_audience: editorial_content,high_volume_stores,physical_stores,
+  spacing: dense
+  imagery_style: lifestyle
+  design_patterns: traditional
+  buyer_experience: inspirational
+  product_highlights: recommended_products
+  navigation_and_filtering: breadcrumbs,enhanced_search,mega_menu,product_filtering_and_sorting,sticky_header,back_to_top_button
+  product_details: product_tabs,product_videos,product_options,size_chart
+  image_display: high_resolution_images,image_galleries,image_rollover,image_zoomslideshow
+  trust: faq,product_reviews,age_verifier
+styles:
+  plush:
+    image: "/path_to_image"
+price: 280
